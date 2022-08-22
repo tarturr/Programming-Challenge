@@ -1,2 +1,4 @@
-# Programming-Challenge
-This GitHub repository contains all the programming challenges I've taken on (see the full list in the README.MD).
+# Programming challenges
+
+Here is a list of all the programming challenges I have to face:
+https://raw.githubusercontent.com/gamingdy/Programming-Challenge/main/programming_challenges.png
